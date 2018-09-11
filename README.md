@@ -14,5 +14,5 @@ Enjoy!
 PS. I created this program for Windows as it has some includes that may not work on Linux and/or Mac. But have fun changing them all you want.
 
 ### Contributers:
-[Mohit Khemchandani]https://github.com/mohitkhemchandani
-[Harshit Jain]https://github.com/cseharshit
+[Mohit Khemchandani](https://github.com/mohitkhemchandani)
+[Harshit Jain](https://github.com/cseharshit)
